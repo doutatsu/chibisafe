@@ -44,7 +44,7 @@ const nextConfig = {
 			: [
 					{
 						source: '/api/:path*',
-						destination: `${process.env.BASE_API_URL}/api/:path*`
+						destination: `chibisafe-w8yr:10000/api/:path*`
 					}
 				];
 	},
